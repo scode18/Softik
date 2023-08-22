@@ -26,6 +26,7 @@ div {
 }
 
 body {
+	color: white;
 	line-height: 1.5;
 	white-space: pre-wrap;
 	background-color: rgb(25, 25, 25);
@@ -629,13 +630,13 @@ blockquote {
 	background: rgba(251, 236, 221, 1);
 }
 .block-color-yellow_background {
-	background: rgba(251, 243, 219, 1);
+	background: rgba(86, 67, 40);
 }
 .block-color-teal_background {
-	background: rgba(237, 243, 236, 1);
+	background: rgba(36, 61, 48);
 }
 .block-color-blue_background {
-	background: rgba(231, 243, 248, 1);
+	background: rgb(20, 58, 78);
 }
 .block-color-purple_background {
 	background: rgba(244, 240, 247, 0.8);
@@ -644,7 +645,7 @@ blockquote {
 	background: rgba(249, 238, 243, 0.8);
 }
 .block-color-red_background {
-	background: rgba(253, 235, 236, 1);
+	background: rgba(82, 46, 42);
 }
 .select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
 .select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
